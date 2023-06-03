@@ -1,0 +1,19 @@
+{
+  "nombre": "** Falta definir el nombre del equipo **",
+  "numero": 1,
+  "discord": "** poner el discord del grupo aquí **",
+  "integrantes": [
+    {
+      "nombre": "Nestor",
+      "apellidos": "Guzman",
+      "discord": "Guz#1403",
+      "github": "NestorGuz"
+    },
+    {
+      "nombre": "Agréguense",
+      "apellidos": "",
+      "discord": "",
+      "github": ""
+    }
+  ]
+}
